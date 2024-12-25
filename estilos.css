@@ -1,0 +1,25 @@
+/* estilos.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(111, 196, 224);
+    margin: 20px;
+}
+/* Cambiar el color de fondo de la página */
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 55px;
+}
+
+p {
+    color: #34495e;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
